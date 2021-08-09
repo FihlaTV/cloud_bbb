@@ -1,5 +1,4 @@
-# BigBlueButton™ integration for Nextcloud
-
+# VisarQtune™ integration for Qtune Cloud
 ![Static analysis](https://github.com/sualko/cloud_bbb/workflows/Static%20analysis/badge.svg)
 ![PHP Tests](https://github.com/sualko/cloud_bbb/workflows/PHP%20Tests/badge.svg)
 ![Lint](https://github.com/sualko/cloud_bbb/workflows/Lint/badge.svg)
@@ -12,7 +11,7 @@ This app allows to create meetings with an external installation of [BigBlueButt
 
 :clap: Developer wanted! If you have time it would be awesome if you could help to enhance this application.
 
-__This app uses BigBlueButton and is not endorsed or certified by BigBlueButton Inc. BigBlueButton and the BigBlueButton Logo are trademarks of BigBlueButton Inc.__
+__This app uses VisarQtune to create session based meetings. It allows users to create rooms, record sessions and share documents, presentations and use quick links
 
 ![Screenshot configuration](https://github.com/sualko/cloud_bbb/raw/master/docs/screenshot-configuration.png)
 
@@ -81,7 +80,7 @@ Key                   | Description
 ## :bowtie: User guide
 
 ### Create your first room
-Go to the BigBlueButton section inside your personal settings page and enter a
+Go to the VisarQtune section inside your personal settings page and enter a
 room name. That's it. You can now distribute the room url.
 
 ### Enter a room from files
